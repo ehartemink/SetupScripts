@@ -23,12 +23,6 @@ sudo apt-get install screen --yes
 # Install htop
 sudo apt install htop --yes
 
-# Install bottom
-https://github.com/ClementTsang/bottom
-curl -LO https://github.com/ClementTsang/bottom/releases/download/0.6.8/bottom_0.6.8_amd64.deb
-sudo dpkg -i bottom_0.6.8_amd64.deb
-sudo rm bottom_0.6.8_amd64.deb
-
 # Install fd (find)
 sudo apt install fd-find
 
