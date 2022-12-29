@@ -29,3 +29,6 @@ sudo apt install fd-find
 # Set git user information
 git config --global user.name "ehartemink"
 git config --global user.email "edwardhartemink@gmail.com"
+
+# Install IPython module for Python
+python3 -m pip install IPython
